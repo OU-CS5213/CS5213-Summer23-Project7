@@ -42,7 +42,7 @@
 2) Also, while trying to start the application we got an error that node.js is not there my system and we fixed it by installing node.js framework using brew.
 
 ### Outcome:
-![Screenshot of the webpage which has statistic about cloud carbon footprint with mocked data.](./Images/mocked-data-screenshot.png)
+![Screenshot of the webpage which has statistic about cloud carbon footprint with mocked data.](./Images/Local-Execution/mocked-data-screenshot.png)
 
 ### Explanations
 1) The first part of the screenshot shows a graph that shows data of CO2 from the last one until now i.e from Mar 2022 to May 2023.
